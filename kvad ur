@@ -14,3 +14,4 @@ if D > 0:
         print(x2,x1, sep='\n')
     else:
         print(x1,x2, sep='\n')
+input()
